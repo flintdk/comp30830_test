@@ -22,7 +22,7 @@ def function():
 def main():
     """
     """
-    print('This program will do cool stuff.')
+    print('This program will do cool stuff!')
 
     function()
 
